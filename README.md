@@ -10,7 +10,7 @@ For details into each class check the PAM_docs.md and CLARA_docs.md files.
 
 Also there are two notebooks, PAM_testing.ipynb for the basic testing of the classes, and also one attempt at applying the algorithms for customer segmentation in PAM_CLARA_RFM_online_shop.ipynb.
 
-The dataset for the RFM application can be found [here](https://www.kaggle.com/datasets/hunter0007/ecommerce-dataset-for-predictive-marketing-2023).
+The dataset for the RFM application can be found [here](https://www.kaggle.com/datasets/hellbuoy/online-retail-customer-clustering).
 
 
 
